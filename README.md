@@ -11,3 +11,11 @@ Assim, segue nesse repositório, o código do Aplicativo para Mobile e Android d
 * Figma
 
 ## Printscreen
+### Tela de entrada
+[!tela inicial](https://github.com/diogojorgebasso/ensinu/blob/87b5589c5d30d62f39b56da20d8ac9ff83f5d57f/entrada%20GERAL@2x.png)
+### Tela para atualização de conta
+[!tela conta](https://github.com/diogojorgebasso/ensinu/blob/38f94eb9e6322c4f0a3854c127d6b6d09519c095/conta.png)
+### Tela do Conectividade
+[!tela conectividade](https://github.com/diogojorgebasso/ensinu/blob/38f94eb9e6322c4f0a3854c127d6b6d09519c095/Conectividade.png)
+### Tela para os Projetos da Escola
+[!Tela projetos](https://github.com/diogojorgebasso/ensinu/blob/38f94eb9e6322c4f0a3854c127d6b6d09519c095/Informa%C3%A7%C3%B5es_projeto.png)
