@@ -4,9 +4,10 @@ A Ensinu foi uma Startup que criei no ano de 2020-começo de 2021, com a ajuda d
 Assim, segue nesse repositório, o código do Aplicativo para Mobile e Android do App Ensinu.
 
 ## Stacks
-* Firebase como DB principal.
+* [Firebase](https://firebase.google.com/) como DB principal.
 * Google Analytics for Mobile, com integração direta ao FireBase
 * Firebase Messaging
-* 
+* [Expo](https://expo.dev/)
+* Figma
 
 ## Printscreen
